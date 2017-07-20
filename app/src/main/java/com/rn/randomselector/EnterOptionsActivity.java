@@ -1,4 +1,4 @@
-package com.rn.randomchooser;
+package com.rn.randomselector;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;

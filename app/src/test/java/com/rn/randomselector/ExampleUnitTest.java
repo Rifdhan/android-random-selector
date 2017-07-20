@@ -1,4 +1,4 @@
-package com.rn.randomchooser;
+package com.rn.randomselector;
 
 import org.junit.Test;
 
